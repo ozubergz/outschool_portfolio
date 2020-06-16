@@ -12,17 +12,14 @@ img {
     border-radius: 100%;
     height: 350px;
     width: 350px;
+    margin: 100px;
 }
-
-/* .container {
-    margin: 0px;
-    
-} */
 
 .section-1 {
     background-color: #0e9aa7;
     text-align: center;
     color: white;
+    
 }
 
 .section-2 {
