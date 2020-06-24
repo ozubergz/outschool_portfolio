@@ -38,6 +38,18 @@ img {
 .section-3 {
     color: #555555;
     text-align: center;
+    padding: 80px;
 }
 
+.row {
+    display: flex;
+}
+
+
+.column {
+    width: 200px;
+    height: 200px;
+    background-color: #555555;
+    margin: 10px;
+}
 
