@@ -27,6 +27,11 @@ img {
     background-color: #474e5d;
     text-align: center;
     color: white;
+    padding: 80px;
+}
+
+.section-2 > h1 {
+    margin-bottom: 40px;
 }
 
 
