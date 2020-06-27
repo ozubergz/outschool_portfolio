@@ -30,8 +30,8 @@ h1, p {
     padding: 80px;
 }
 
-.section-2 > h1 {
-    margin-bottom: 40px;
+.section-2 > h2 {
+    margin-bottom: 50px;
 }
 
 
@@ -39,6 +39,10 @@ h1, p {
     color: #555555;
     text-align: center;
     padding: 80px;
+}
+
+.section-3 > h2 {
+    margin-bottom: 50px;
 }
 
 .row {
