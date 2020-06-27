@@ -52,11 +52,12 @@ h1, p {
 
 
 .column {
-    
+    width: 350px;
+    height: 350px;
     margin: 15px;
 }
 
-.box-img {
-    
+.column > p {
+    margin-bottom: 10px;
 }
 
