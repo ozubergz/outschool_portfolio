@@ -17,34 +17,30 @@ h1, p {
     background-color: black;
 }
 
+.container {
+    padding: 80px;
+    text-align: center;
+}
+
+.container > h1 {
+    margin-bottom: 50px;
+
+}
+
 .section-1 {
     background-color: #0e9aa7;
-    text-align: center;
     color: white;
-    padding: 80px;
 }
 
 .section-2 {
     background-color: #474e5d;
-    text-align: center;
     color: white;
-    padding: 80px;
 }
-
-.section-2 > h1 {
-    margin-bottom: 50px;
-}
-
 
 .section-3 {
     color: #555555;
-    text-align: center;
-    padding: 80px;
 }
 
-.section-3 > h1 {
-    margin-bottom: 50px;
-}
 
 .row {
     display: flex;
@@ -53,8 +49,6 @@ h1, p {
 
 
 .column {
-    width: 350px;
-    height: 350px;
     margin: 15px;
 }
 
